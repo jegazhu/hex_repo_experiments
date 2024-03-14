@@ -20,3 +20,4 @@ Thanks @DataWithDanny for the excellent SQL case studies!
 * Case Study #2: [Pizza Runner](https://github.com/jegazhu/hex_repo_experiments/blob/main/Pizza%20Metrics.sql)
 * Case Study #3: [Foodie-Fi](https://github.com/jegazhu/hex_repo_experiments/blob/main/Foodie_FI.sql)
 * SSMS & Snowflake: [Integration Test](https://github.com/jegazhu/sql_repo_experiments/blob/main/Snowflake_SSMS)
+![SSMS_Snowflake_integration](https://github.com/jegazhu/sql_repo_experiments/assets/15848082/05439388-c8fc-4608-8fff-0ea15029467a)
