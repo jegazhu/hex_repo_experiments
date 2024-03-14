@@ -1,4 +1,4 @@
-# SQLx_repo_experiments - 8 Week SQL Challenge
+# SQL_repo_experiments - 8 Week SQL Challenge
 
 SQL for Advanced scripting
 
